@@ -50,7 +50,7 @@ export default class TheHeader extends Component {
         </ul>
       </nav>
       <a href="#/about" class="user">
-        <img src="https://heropy.blog/css/images/logo.png" alt="User">
+        <img src="https://lh3.googleusercontent.com/a/ACg8ocIRvamEZfir7rlQ7llx1Q0u5wIg5OHoUjOanaahNSfCbcfkyzrk=s288-c-no" alt="User">
       </a>
     `
   }
