@@ -11,11 +11,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node-fetch": "^2.6.12",
     "dotenv": "^16.4.7",
     "parcel": "^2.13.3",
+    "typescript": "^5.7.3",
     "vercel": "^41.0.2"
   },
   "dependencies": {
     "node-fetch": "^2.7.0"
-  }
+  },
+  "type" : "module"
 }
